@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aryan Thapa</h1>
-<h3 align="center">A passionate android developer.</h3>
+<h3 align="center">A passionate developer.</h3>
 
 - 💬 Ask me about **android development,java**
 
