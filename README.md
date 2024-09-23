@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aryan Thapa</h1>
 <h3 align="center">A passionate Data Scientist</h3>
 
-- 💬 Ask me about **Data Analysis**
+- 💬 Ask me about **Data Science**
 
 - 📫 How to reach me **dipuaryan1111@gmail.com**
 
