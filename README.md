@@ -1,6 +1,6 @@
 # 👋 Hello! I'm Aryan Thapa
 
-I'm a passionate data scientist and software developer, constantly exploring new technologies and creating solutions for real-world problems. I enjoy diving into data science, machine learning, and backend development, with a particular focus on **Data Science** and **Deep Learning**.
+I'm a passionate data scientist and software developer, constantly exploring new technologies and creating solutions for real-world problems. I enjoy diving into data science, machine learning, and LLM, with a particular focus on **Data Science** and **Deep Learning**.
 
 ---
 
@@ -14,7 +14,7 @@ I'm a passionate data scientist and software developer, constantly exploring new
 
 ## 🛠️ Tech Stack
 
-- **Languages:** Python, SQL, JavaScript
+- **Languages:** Python, SQL
 - **Data Science:** Pandas, NumPy, Scikit-Learn, TensorFlow, Keras
 - **Databases:** MongoDB, SQLite
 - **Tools:** Power BI, Jupyter Notebooks, Visual Studio Code
@@ -34,7 +34,7 @@ Here are a few of my projects:
 
 ## 🎓 Certifications
 
-- **Data Science Certification** – Completed a 1.5-year program covering ML, DL, and MLOps.
+- **Data Science Certification** – Completed a program covering ML, DL, and MLOps.
 - **Deep Learning Projects** – Practical hands-on experience with CNN and image recognition.
 
 ---
